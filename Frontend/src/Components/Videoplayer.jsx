@@ -14,8 +14,6 @@ const VideoPlayer = ({ id, videopublicId, thumbnail, width, height, ...props }) 
         showJumpControls: true,
         autoplay: false,
         pictureInPictureToggle: true,
-        logoOnclickUrl: 'https://bhanu-pratap-portfolio.vercel.app/',
-        logoImageUrl: 'https://i.pinimg.com/236x/01/4e/7c/014e7c41682d5e1f96bfd171b52988e9.jpg',
         fluid: true,
         colors: {
           accent: '#89C9FF'
